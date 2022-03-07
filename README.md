@@ -17,4 +17,8 @@ npm install
 npm start
 ```
 
+<<<<<<< HEAD
 hhhh
+======
+wahhh
+>>>>>>> 2edeca54bb3f9f1df55335ed050415d95512aac8
